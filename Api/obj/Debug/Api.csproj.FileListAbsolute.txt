@@ -1,0 +1,2 @@
+C:\Users\Leo\source\repos\Api\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\Api\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
